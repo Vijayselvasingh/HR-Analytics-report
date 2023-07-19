@@ -17,4 +17,4 @@ Based on the dashboard, I have made conclusions and recommendations that HR team
 2. People who were on smaller teams, went longer between promotions, and who reported to lower-performing managers were all more likely to leave.
 3. The company should provide a proper worklife balance to all irrespective of the departments.
 # References
-I would like to thank Excelr institute for providing this opportunity of creating a dashboard as a part of the project.
+I would like to thank ExcelR institute for providing this opportunity of creating a dashboard as a part of the project.
